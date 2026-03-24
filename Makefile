@@ -29,7 +29,7 @@ build:
 	cargo build
 
 run:
-	cargo run
+	cargo run --bin runarium
 
 clean:
 	cargo clean
